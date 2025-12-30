@@ -94,7 +94,7 @@ This project demonstrates how machine learning can be used to predict candidate 
 
 ## Demo
 Google Colab Notebook:  
-https://colab.research.google.com/drive/1cdUHjAidNmrDHMAjxSMQk_rEOGl1bZEz?usp=sharing
+[https://colab.research.google.com/drive/1cdUHjAidNmrDHMAjxSMQk_rEOGl1bZEz?usp=sharing](https://colab.research.google.com/drive/1_oZhCGHSpC5NWpgIRhWicBfNjypAg8oI?usp=sharing)
 
 ---
 
